@@ -1,4 +1,5 @@
 # Basic_Dart
-Learning basic Dart programming language => Flutter 📴
-✔️ Variable
-✔️ Function
+
+## Learning Dart programming language & practicing skills to Flutter 📴 <br />
+✔️ Variable<br/>
+✔️ Function<br/>
