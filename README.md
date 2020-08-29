@@ -5,3 +5,4 @@
 ✔️ Variable<br/>
 ✔️ Function<br/>
 ✔️ Classes<br/>
+✔️ Inheritance<br/>
