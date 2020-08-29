@@ -6,3 +6,4 @@
 ✔️ Function<br/>
 ✔️ Classes<br/>
 ✔️ Inheritance<br/>
+✔️ Mixins<br/>
